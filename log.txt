@@ -1,0 +1,144 @@
+23 èþë 2014 08:28:24.929 [INFO] [Thread-0] [com.epam.threadtask.entity.Car] - entity.Car Thread-0has  parked
+23 èþë 2014 08:28:24.929 [INFO] [Thread-4] [com.epam.threadtask.entity.Car] - entity.Car Thread-4has  parked
+23 èþë 2014 08:28:24.929 [INFO] [Thread-2] [com.epam.threadtask.entity.Car] - entity.Car Thread-2has  parked
+23 èþë 2014 08:28:25.429 [INFO] [Thread-3] [com.epam.threadtask.entity.Car] - entity.Car Thread-3has  parked
+23 èþë 2014 08:28:25.430 [INFO] [Thread-1] [com.epam.threadtask.entity.Car] - entity.Car Thread-1has  parked
+23 èþë 2014 08:28:27.841 [INFO] [Thread-0] [com.epam.threadtask.entity.Parking] - entity.Car car ¹1 left parking
+23 èþë 2014 08:28:27.841 [INFO] [Thread-0] [com.epam.threadtask.entity.Car] - entity.Car Thread-0has  left parking
+23 èþë 2014 08:28:27.841 [INFO] [Thread-0] [com.epam.threadtask.entity.Car] - entity.Car Thread-0has  parked
+23 èþë 2014 08:28:28.892 [INFO] [Thread-4] [com.epam.threadtask.entity.Parking] - entity.Car car ¹5 left parking
+23 èþë 2014 08:28:28.892 [INFO] [Thread-4] [com.epam.threadtask.entity.Car] - entity.Car Thread-4has  left parking
+23 èþë 2014 08:28:29.393 [INFO] [Thread-4] [com.epam.threadtask.entity.Car] - entity.Car Thread-4has  parked
+23 èþë 2014 08:28:29.704 [INFO] [Thread-3] [com.epam.threadtask.entity.Parking] - entity.Car car ¹4 left parking
+23 èþë 2014 08:28:29.704 [INFO] [Thread-3] [com.epam.threadtask.entity.Car] - entity.Car Thread-3has  left parking
+23 èþë 2014 08:28:29.704 [INFO] [Thread-3] [com.epam.threadtask.entity.Car] - entity.Car Thread-3has  parked
+23 èþë 2014 08:28:30.153 [INFO] [Thread-1] [com.epam.threadtask.entity.Parking] - entity.Car car ¹2 left parking
+23 èþë 2014 08:28:30.153 [INFO] [Thread-1] [com.epam.threadtask.entity.Car] - entity.Car Thread-1has  left parking
+23 èþë 2014 08:28:30.153 [INFO] [Thread-1] [com.epam.threadtask.entity.Car] - entity.Car Thread-1has  parked
+23 èþë 2014 08:28:30.725 [INFO] [Thread-0] [com.epam.threadtask.entity.Parking] - entity.Car car ¹1 left parking
+23 èþë 2014 08:28:30.725 [INFO] [Thread-0] [com.epam.threadtask.entity.Car] - entity.Car Thread-0has  left parking
+23 èþë 2014 08:28:30.846 [INFO] [Thread-2] [com.epam.threadtask.entity.Parking] - entity.Car car ¹3 left parking
+23 èþë 2014 08:28:30.846 [INFO] [Thread-2] [com.epam.threadtask.entity.Car] - entity.Car Thread-2has  left parking
+23 èþë 2014 08:28:30.846 [INFO] [Thread-2] [com.epam.threadtask.entity.Car] - entity.Car Thread-2has  parked
+23 èþë 2014 08:28:33.310 [INFO] [Thread-4] [com.epam.threadtask.entity.Parking] - entity.Car car ¹5 left parking
+23 èþë 2014 08:28:33.310 [INFO] [Thread-4] [com.epam.threadtask.entity.Car] - entity.Car Thread-4has  left parking
+23 èþë 2014 08:28:33.978 [INFO] [Thread-3] [com.epam.threadtask.entity.Parking] - entity.Car car ¹4 left parking
+23 èþë 2014 08:28:33.978 [INFO] [Thread-3] [com.epam.threadtask.entity.Car] - entity.Car Thread-3has  left parking
+23 èþë 2014 08:28:34.875 [INFO] [Thread-1] [com.epam.threadtask.entity.Parking] - entity.Car car ¹2 left parking
+23 èþë 2014 08:28:34.875 [INFO] [Thread-1] [com.epam.threadtask.entity.Car] - entity.Car Thread-1has  left parking
+23 èþë 2014 08:28:36.718 [INFO] [Thread-2] [com.epam.threadtask.entity.Parking] - entity.Car car ¹3 left parking
+23 èþë 2014 08:28:36.718 [INFO] [Thread-2] [com.epam.threadtask.entity.Car] - entity.Car Thread-2has  left parking
+23 èþë 2014 08:28:36.718 [INFO] [Thread-2] [com.epam.threadtask.entity.Car] - entity.Car Thread-2has  parked
+23 èþë 2014 08:28:42.589 [INFO] [Thread-2] [com.epam.threadtask.entity.Parking] - entity.Car car ¹3 left parking
+23 èþë 2014 08:28:42.589 [INFO] [Thread-2] [com.epam.threadtask.entity.Car] - entity.Car Thread-2has  left parking
+23 èþë 2014 08:35:58.207 [INFO] [car ¹5] [com.epam.threadtask.entity.Car] - entity.Car car ¹5has  parked to parking: First[0]
+23 èþë 2014 08:35:58.207 [INFO] [car ¹4] [com.epam.threadtask.entity.Car] - entity.Car car ¹4has  parked to parking: First[0]
+23 èþë 2014 08:35:58.207 [INFO] [car ¹1] [com.epam.threadtask.entity.Car] - entity.Car car ¹1has  parked to parking: First[0]
+23 èþë 2014 08:35:58.707 [INFO] [car ¹2] [com.epam.threadtask.entity.Car] - entity.Car car ¹2has  parked to parking: First[1]
+23 èþë 2014 08:35:58.707 [INFO] [car ¹3] [com.epam.threadtask.entity.Car] - entity.Car car ¹3has  parked to parking: First[1]
+23 èþë 2014 08:36:00.034 [INFO] [car ¹4] [com.epam.threadtask.entity.Parking] - entity.Car car ¹4 left parking
+23 èþë 2014 08:36:00.034 [INFO] [car ¹4] [com.epam.threadtask.entity.Car] - entity.Car car ¹4has  left parking First[0]
+23 èþë 2014 08:36:00.034 [INFO] [car ¹4] [com.epam.threadtask.entity.Car] - entity.Car car ¹4has  parked to parking: First[1]
+23 èþë 2014 08:36:00.356 [INFO] [car ¹5] [com.epam.threadtask.entity.Parking] - entity.Car car ¹5 left parking
+23 èþë 2014 08:36:00.356 [INFO] [car ¹5] [com.epam.threadtask.entity.Car] - entity.Car car ¹5has  left parking First[0]
+23 èþë 2014 08:36:00.857 [INFO] [car ¹5] [com.epam.threadtask.entity.Car] - entity.Car car ¹5has  parked to parking: First[2]
+23 èþë 2014 08:36:01.860 [INFO] [car ¹4] [com.epam.threadtask.entity.Parking] - entity.Car car ¹4 left parking
+23 èþë 2014 08:36:01.860 [INFO] [car ¹4] [com.epam.threadtask.entity.Car] - entity.Car car ¹4has  left parking First[1]
+23 èþë 2014 08:36:01.860 [INFO] [car ¹4] [com.epam.threadtask.entity.Car] - entity.Car car ¹4has  parked to parking: First[2]
+23 èþë 2014 08:36:02.051 [INFO] [car ¹3] [com.epam.threadtask.entity.Parking] - entity.Car car ¹3 left parking
+23 èþë 2014 08:36:02.051 [INFO] [car ¹3] [com.epam.threadtask.entity.Car] - entity.Car car ¹3has  left parking First[1]
+23 èþë 2014 08:36:02.051 [INFO] [car ¹3] [com.epam.threadtask.entity.Car] - entity.Car car ¹3has  parked to parking: First[2]
+23 èþë 2014 08:36:03.005 [INFO] [car ¹5] [com.epam.threadtask.entity.Parking] - entity.Car car ¹5 left parking
+23 èþë 2014 08:36:03.005 [INFO] [car ¹5] [com.epam.threadtask.entity.Car] - entity.Car car ¹5has  left parking First[2]
+23 èþë 2014 08:36:03.657 [INFO] [car ¹2] [com.epam.threadtask.entity.Parking] - entity.Car car ¹2 left parking
+23 èþë 2014 08:36:03.657 [INFO] [car ¹2] [com.epam.threadtask.entity.Car] - entity.Car car ¹2has  left parking First[1]
+23 èþë 2014 08:36:03.657 [INFO] [car ¹2] [com.epam.threadtask.entity.Car] - entity.Car car ¹2has  parked to parking: First[2]
+23 èþë 2014 08:36:03.686 [INFO] [car ¹4] [com.epam.threadtask.entity.Parking] - entity.Car car ¹4 left parking
+23 èþë 2014 08:36:03.686 [INFO] [car ¹4] [com.epam.threadtask.entity.Car] - entity.Car car ¹4has  left parking First[2]
+23 èþë 2014 08:36:03.983 [INFO] [car ¹1] [com.epam.threadtask.entity.Parking] - entity.Car car ¹1 left parking
+23 èþë 2014 08:36:03.983 [INFO] [car ¹1] [com.epam.threadtask.entity.Car] - entity.Car car ¹1has  left parking First[0]
+23 èþë 2014 08:36:03.983 [INFO] [car ¹1] [com.epam.threadtask.entity.Car] - entity.Car car ¹1has  parked to parking: First[1]
+23 èþë 2014 08:36:05.395 [INFO] [car ¹3] [com.epam.threadtask.entity.Parking] - entity.Car car ¹3 left parking
+23 èþë 2014 08:36:05.395 [INFO] [car ¹3] [com.epam.threadtask.entity.Car] - entity.Car car ¹3has  left parking First[2]
+23 èþë 2014 08:36:08.608 [INFO] [car ¹2] [com.epam.threadtask.entity.Parking] - entity.Car car ¹2 left parking
+23 èþë 2014 08:36:08.608 [INFO] [car ¹2] [com.epam.threadtask.entity.Car] - entity.Car car ¹2has  left parking First[2]
+23 èþë 2014 08:36:09.759 [INFO] [car ¹1] [com.epam.threadtask.entity.Parking] - entity.Car car ¹1 left parking
+23 èþë 2014 08:36:09.759 [INFO] [car ¹1] [com.epam.threadtask.entity.Car] - entity.Car car ¹1has  left parking First[1]
+23 èþë 2014 08:36:09.759 [INFO] [car ¹1] [com.epam.threadtask.entity.Car] - entity.Car car ¹1has  parked to parking: First[2]
+23 èþë 2014 08:36:15.534 [INFO] [car ¹1] [com.epam.threadtask.entity.Parking] - entity.Car car ¹1 left parking
+23 èþë 2014 08:36:15.534 [INFO] [car ¹1] [com.epam.threadtask.entity.Car] - entity.Car car ¹1has  left parking First[2]
+23 èþë 2014 08:36:57.030 [INFO] [car ¹4] [com.epam.threadtask.entity.Car] - entity.Car car ¹4has  parked to parking: Parking ¹ 0
+23 èþë 2014 08:36:57.030 [INFO] [car ¹5] [com.epam.threadtask.entity.Car] - entity.Car car ¹5has  parked to parking: Parking ¹ 0
+23 èþë 2014 08:36:57.030 [INFO] [car ¹2] [com.epam.threadtask.entity.Car] - entity.Car car ¹2has  parked to parking: Parking ¹ 0
+23 èþë 2014 08:36:57.530 [INFO] [car ¹1] [com.epam.threadtask.entity.Car] - entity.Car car ¹1has  parked to parking: Parking ¹ 1
+23 èþë 2014 08:36:57.530 [INFO] [car ¹3] [com.epam.threadtask.entity.Car] - entity.Car car ¹3has  parked to parking: Parking ¹ 1
+23 èþë 2014 08:36:58.080 [INFO] [car ¹2] [com.epam.threadtask.entity.Parking] - entity.Car car ¹2 left parking
+23 èþë 2014 08:36:58.080 [INFO] [car ¹2] [com.epam.threadtask.entity.Car] - entity.Car car ¹2has  left parking Parking ¹ 0
+23 èþë 2014 08:36:58.080 [INFO] [car ¹2] [com.epam.threadtask.entity.Car] - entity.Car car ¹2has  parked to parking: Parking ¹ 1
+23 èþë 2014 08:36:58.124 [INFO] [car ¹4] [com.epam.threadtask.entity.Parking] - entity.Car car ¹4 left parking
+23 èþë 2014 08:36:58.124 [INFO] [car ¹4] [com.epam.threadtask.entity.Car] - entity.Car car ¹4has  left parking Parking ¹ 0
+23 èþë 2014 08:36:58.625 [INFO] [car ¹4] [com.epam.threadtask.entity.Car] - entity.Car car ¹4has  parked to parking: Parking ¹ 2
+23 èþë 2014 08:36:59.129 [INFO] [car ¹2] [com.epam.threadtask.entity.Parking] - entity.Car car ¹2 left parking
+23 èþë 2014 08:36:59.129 [INFO] [car ¹2] [com.epam.threadtask.entity.Car] - entity.Car car ¹2has  left parking Parking ¹ 1
+23 èþë 2014 08:36:59.129 [INFO] [car ¹2] [com.epam.threadtask.entity.Car] - entity.Car car ¹2has  parked to parking: Parking ¹ 2
+23 èþë 2014 08:36:59.718 [INFO] [car ¹4] [com.epam.threadtask.entity.Parking] - entity.Car car ¹4 left parking
+23 èþë 2014 08:36:59.719 [INFO] [car ¹4] [com.epam.threadtask.entity.Car] - entity.Car car ¹4has  left parking Parking ¹ 2
+23 èþë 2014 08:37:00.178 [INFO] [car ¹2] [com.epam.threadtask.entity.Parking] - entity.Car car ¹2 left parking
+23 èþë 2014 08:37:00.178 [INFO] [car ¹2] [com.epam.threadtask.entity.Car] - entity.Car car ¹2has  left parking Parking ¹ 2
+23 èþë 2014 08:37:00.324 [INFO] [car ¹5] [com.epam.threadtask.entity.Parking] - entity.Car car ¹5 left parking
+23 èþë 2014 08:37:00.324 [INFO] [car ¹5] [com.epam.threadtask.entity.Car] - entity.Car car ¹5has  left parking Parking ¹ 0
+23 èþë 2014 08:37:00.324 [INFO] [car ¹5] [com.epam.threadtask.entity.Car] - entity.Car car ¹5has  parked to parking: Parking ¹ 1
+23 èþë 2014 08:37:01.603 [INFO] [car ¹3] [com.epam.threadtask.entity.Parking] - entity.Car car ¹3 left parking
+23 èþë 2014 08:37:01.603 [INFO] [car ¹3] [com.epam.threadtask.entity.Car] - entity.Car car ¹3has  left parking Parking ¹ 1
+23 èþë 2014 08:37:01.603 [INFO] [car ¹3] [com.epam.threadtask.entity.Car] - entity.Car car ¹3has  parked to parking: Parking ¹ 2
+23 èþë 2014 08:37:02.447 [INFO] [car ¹1] [com.epam.threadtask.entity.Parking] - entity.Car car ¹1 left parking
+23 èþë 2014 08:37:02.447 [INFO] [car ¹1] [com.epam.threadtask.entity.Car] - entity.Car car ¹1has  left parking Parking ¹ 1
+23 èþë 2014 08:37:02.447 [INFO] [car ¹1] [com.epam.threadtask.entity.Car] - entity.Car car ¹1has  parked to parking: Parking ¹ 2
+23 èþë 2014 08:37:03.617 [INFO] [car ¹5] [com.epam.threadtask.entity.Parking] - entity.Car car ¹5 left parking
+23 èþë 2014 08:37:03.617 [INFO] [car ¹5] [com.epam.threadtask.entity.Car] - entity.Car car ¹5has  left parking Parking ¹ 1
+23 èþë 2014 08:37:03.617 [INFO] [car ¹5] [com.epam.threadtask.entity.Car] - entity.Car car ¹5has  parked to parking: Parking ¹ 2
+23 èþë 2014 08:37:05.676 [INFO] [car ¹3] [com.epam.threadtask.entity.Parking] - entity.Car car ¹3 left parking
+23 èþë 2014 08:37:05.676 [INFO] [car ¹3] [com.epam.threadtask.entity.Car] - entity.Car car ¹3has  left parking Parking ¹ 2
+23 èþë 2014 08:37:06.911 [INFO] [car ¹5] [com.epam.threadtask.entity.Parking] - entity.Car car ¹5 left parking
+23 èþë 2014 08:37:06.911 [INFO] [car ¹5] [com.epam.threadtask.entity.Car] - entity.Car car ¹5has  left parking Parking ¹ 2
+23 èþë 2014 08:37:07.365 [INFO] [car ¹1] [com.epam.threadtask.entity.Parking] - entity.Car car ¹1 left parking
+23 èþë 2014 08:37:07.365 [INFO] [car ¹1] [com.epam.threadtask.entity.Car] - entity.Car car ¹1has  left parking Parking ¹ 2
+23 èþë 2014 08:37:43.345 [INFO] [car ¹4] [com.epam.threadtask.entity.Car] - car ¹4has  parked to parking: Parking ¹ 0
+23 èþë 2014 08:37:43.345 [INFO] [car ¹5] [com.epam.threadtask.entity.Car] - car ¹5has  parked to parking: Parking ¹ 0
+23 èþë 2014 08:37:43.345 [INFO] [car ¹2] [com.epam.threadtask.entity.Car] - car ¹2has  parked to parking: Parking ¹ 0
+23 èþë 2014 08:37:43.846 [INFO] [car ¹3] [com.epam.threadtask.entity.Car] - car ¹3has  parked to parking: Parking ¹ 1
+23 èþë 2014 08:37:43.846 [INFO] [car ¹1] [com.epam.threadtask.entity.Car] - car ¹1has  parked to parking: Parking ¹ 1
+23 èþë 2014 08:37:46.668 [INFO] [car ¹3] [com.epam.threadtask.entity.Parking] - entity.Car car ¹3 left parking
+23 èþë 2014 08:37:46.668 [INFO] [car ¹3] [com.epam.threadtask.entity.Car] - car ¹3has  left parking Parking ¹ 1
+23 èþë 2014 08:37:46.668 [INFO] [car ¹3] [com.epam.threadtask.entity.Car] - car ¹3has  parked to parking: Parking ¹ 2
+23 èþë 2014 08:37:46.880 [INFO] [car ¹4] [com.epam.threadtask.entity.Parking] - entity.Car car ¹4 left parking
+23 èþë 2014 08:37:46.880 [INFO] [car ¹4] [com.epam.threadtask.entity.Car] - car ¹4has  left parking Parking ¹ 0
+23 èþë 2014 08:37:46.880 [INFO] [car ¹4] [com.epam.threadtask.entity.Car] - car ¹4has  parked to parking: Parking ¹ 1
+23 èþë 2014 08:37:47.616 [INFO] [car ¹5] [com.epam.threadtask.entity.Parking] - entity.Car car ¹5 left parking
+23 èþë 2014 08:37:47.616 [INFO] [car ¹5] [com.epam.threadtask.entity.Car] - car ¹5has  left parking Parking ¹ 0
+23 èþë 2014 08:37:47.616 [INFO] [car ¹5] [com.epam.threadtask.entity.Car] - car ¹5has  parked to parking: Parking ¹ 1
+23 èþë 2014 08:37:47.713 [INFO] [car ¹1] [com.epam.threadtask.entity.Parking] - entity.Car car ¹1 left parking
+23 èþë 2014 08:37:47.713 [INFO] [car ¹1] [com.epam.threadtask.entity.Car] - car ¹1has  left parking Parking ¹ 1
+23 èþë 2014 08:37:47.713 [INFO] [car ¹1] [com.epam.threadtask.entity.Car] - car ¹1has  parked to parking: Parking ¹ 2
+23 èþë 2014 08:37:48.891 [INFO] [car ¹2] [com.epam.threadtask.entity.Parking] - entity.Car car ¹2 left parking
+23 èþë 2014 08:37:48.891 [INFO] [car ¹2] [com.epam.threadtask.entity.Car] - car ¹2has  left parking Parking ¹ 0
+23 èþë 2014 08:37:48.891 [INFO] [car ¹2] [com.epam.threadtask.entity.Car] - car ¹2has  parked to parking: Parking ¹ 1
+23 èþë 2014 08:37:49.489 [INFO] [car ¹3] [com.epam.threadtask.entity.Parking] - entity.Car car ¹3 left parking
+23 èþë 2014 08:37:49.489 [INFO] [car ¹3] [com.epam.threadtask.entity.Car] - car ¹3has  left parking Parking ¹ 2
+23 èþë 2014 08:37:50.413 [INFO] [car ¹4] [com.epam.threadtask.entity.Parking] - entity.Car car ¹4 left parking
+23 èþë 2014 08:37:50.413 [INFO] [car ¹4] [com.epam.threadtask.entity.Car] - car ¹4has  left parking Parking ¹ 1
+23 èþë 2014 08:37:50.413 [INFO] [car ¹4] [com.epam.threadtask.entity.Car] - car ¹4has  parked to parking: Parking ¹ 2
+23 èþë 2014 08:37:51.579 [INFO] [car ¹1] [com.epam.threadtask.entity.Parking] - entity.Car car ¹1 left parking
+23 èþë 2014 08:37:52.332 [INFO] [car ¹1] [com.epam.threadtask.entity.Car] - car ¹1has  left parking Parking ¹ 2
+23 èþë 2014 08:37:51.885 [INFO] [car ¹5] [com.epam.threadtask.entity.Parking] - entity.Car car ¹5 left parking
+23 èþë 2014 08:37:52.333 [INFO] [car ¹5] [com.epam.threadtask.entity.Car] - car ¹5has  left parking Parking ¹ 1
+23 èþë 2014 08:37:52.333 [INFO] [car ¹5] [com.epam.threadtask.entity.Car] - car ¹5has  parked to parking: Parking ¹ 2
+23 èþë 2014 08:37:53.946 [INFO] [car ¹4] [com.epam.threadtask.entity.Parking] - entity.Car car ¹4 left parking
+23 èþë 2014 08:37:53.946 [INFO] [car ¹4] [com.epam.threadtask.entity.Car] - car ¹4has  left parking Parking ¹ 2
+23 èþë 2014 08:37:54.435 [INFO] [car ¹2] [com.epam.threadtask.entity.Parking] - entity.Car car ¹2 left parking
+23 èþë 2014 08:37:54.435 [INFO] [car ¹2] [com.epam.threadtask.entity.Car] - car ¹2has  left parking Parking ¹ 1
+23 èþë 2014 08:37:54.435 [INFO] [car ¹2] [com.epam.threadtask.entity.Car] - car ¹2has  parked to parking: Parking ¹ 2
+23 èþë 2014 08:37:56.603 [INFO] [car ¹5] [com.epam.threadtask.entity.Parking] - entity.Car car ¹5 left parking
+23 èþë 2014 08:37:56.603 [INFO] [car ¹5] [com.epam.threadtask.entity.Car] - car ¹5has  left parking Parking ¹ 2
+23 èþë 2014 08:37:59.980 [INFO] [car ¹2] [com.epam.threadtask.entity.Parking] - entity.Car car ¹2 left parking
+23 èþë 2014 08:37:59.980 [INFO] [car ¹2] [com.epam.threadtask.entity.Car] - car ¹2has  left parking Parking ¹ 2
